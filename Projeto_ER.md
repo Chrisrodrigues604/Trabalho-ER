@@ -239,7 +239,7 @@ Requisitos de software detalham operações implementáveis e rastreáveis.<br>
 
 
 ![Figura 1 — diagrama](Casos%20de%20uso%20do%20analista.jpg)
-*Figura 1 - Casos de uso do analista.*
+<br>*Figura 1 - Casos de uso do analista.*
 ## 5.2. Especificação de Casos de Uso
 As tabelas preservam o padrão de fluxo principal, pré-condições, pós-condições e restrições do modelo.<br>
 <table>
@@ -422,7 +422,7 @@ As três sequências mostram a consulta espacial, o processamento assíncrono e 
 exportação do resultado salvo.
 
 ![Figura 2 — diagrama](Sequência%20da%20consulta%20espacial.jpg)
-*Figura 2 - Sequência da consulta espacial.*
+<br>*Figura 2 - Sequência da consulta espacial.*
 ### Como funciona o fluxo da consulta
 1. O analista confirma um polígono válido e os filtros na interface.
 2. A interface envia área e filtros para a API.
@@ -439,15 +439,15 @@ fonte é importada.
 6. A interface mostra marcadores e indicadores ao analista.
 
 ![Figura 3 — diagrama](Sequência%20da%20análise%20assíncrona.jpg)
-*Figura 3 - Sequência da análise de concorrência em fila.*
+<br>*Figura 3 - Sequência da análise de concorrência em fila.*
 
 
 ![Figura 4 — diagrama](Sequência%20da%20exportação.jpg)
-*Figura 4 - Sequência da exportação de resultados.*
+<br>*Figura 4 - Sequência da exportação de resultados.*
 ## 5.4. Diagrama de Atividades
 
 ![Figura 5 — diagrama](Atividades%20da%20análise%20setorial.jpg)
-*Figura 5 - Atividades da análise territorial.*
+<br>*Figura 5 - Atividades da análise territorial.*
 
 A validação antecede a consulta. O fluxo representado continua com análise detalhada e
 utilização do resultado.
@@ -457,18 +457,18 @@ os estados da tarefa. Eles estendem o conjunto mínimo de diagramas previsto no 
 ### 5.5.1. Casos de Uso da Gestão de Dados
 
 ![Figura 6 — diagrama](Caso%20de%20uso%20da%20gestão%20de%20dados.jpg)
-*Figura 6 - Casos de uso do administrador de dados.*
+<br>*Figura 6 - Casos de uso do administrador de dados.*
 ### 5.5.2. Modelo Conceitual de Dados
 
 ![Figura 7 — diagrama](Modelo%20conceitual%20de%20dados.jpg)
-*Figura 7 - Entidades centrais e cardinalidades.*
+<br>*Figura 7 - Entidades centrais e cardinalidades.*
 
 ### 5.5.3. Componentes
 
 ![Figura 8 — diagrama](Arquitetura%20lógica%20proposta.jpg)
-*Figura 8 - Arquitetura lógica proposta.*
+<br>*Figura 8 - Arquitetura lógica proposta.*
 ### 5.5.4. Estados da Análise
 
 ![Figura 9 — diagrama](Estados%20de%20uma%20terefa%20de%20análise.jpg)
-*Figura 9 - Estados de uma tarefa de análise.*
+<br>*Figura 9 - Estados de uma tarefa de análise.*
 
